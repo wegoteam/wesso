@@ -1,7 +1,7 @@
 package main
 
 import (
-	hello "github.com/wego2023/wesso/api/kitex_gen/hello/hello"
+	hello "github.com/wegoteam/wesso/api/kitex_gen/hello/hello"
 	"log"
 )
 

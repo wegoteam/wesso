@@ -4,7 +4,7 @@ package main
 
 import (
 	"github.com/cloudwego/hertz/pkg/app/server"
-	"github.com/wego2023/wesso/internal/biz/handler"
+	"github.com/wegoteam/wesso/internal/biz/handler"
 )
 
 // customizeRegister registers customize routers.

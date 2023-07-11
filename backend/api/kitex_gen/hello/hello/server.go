@@ -3,7 +3,7 @@ package hello
 
 import (
 	server "github.com/cloudwego/kitex/server"
-	hello "github.com/wego2023/wesso/api/kitex_gen/hello"
+	hello "github.com/wegoteam/wesso/api/kitex_gen/hello"
 )
 
 // NewServer creates a server.Server with the given handler and options.

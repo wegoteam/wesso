@@ -1,3 +1,3 @@
-module github.com/wego2023/wesso
+module github.com/wegoteam/wesso
 
 go 1.19

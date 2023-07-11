@@ -9,8 +9,8 @@ import (
 	"github.com/cloudwego/hertz/pkg/protocol/consts"
 	"github.com/cloudwego/kitex/client"
 	"github.com/cloudwego/kitex/client/callopt"
-	helloApi "github.com/wego2023/wesso/api/kitex_gen/hello"
-	"github.com/wego2023/wesso/api/kitex_gen/hello/hello"
+	helloApi "github.com/wegoteam/wesso/api/kitex_gen/hello"
+	"github.com/wegoteam/wesso/api/kitex_gen/hello/hello"
 	"log"
 	"time"
 )
